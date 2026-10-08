@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="Assigment_5_OOP_Simulation/Assigment_5_OOP_Simulation.csproj" />
+  <Project Path="Part1_ProceduralToOOP/Part1_ProceduralToOOP.csproj" Id="5467dab5-5214-4140-84e8-8979964bf121" />
+  <Project Path="Part2_HotelReservationSystem/Part2_HotelReservationSystem.csproj" Id="96cdcbdc-4bd3-40fc-b129-6f5c472d4b54" />
+  <Project Path="Part3_BuilderPattern/Part3_BuilderPattern.csproj" Id="900e0749-4a37-4a51-9477-aa244fee0882" />
+  <Project Path="Part4_LeetCode/Part4_LeetCode.csproj" Id="c248b907-3ae4-465d-a5bd-2eb0a83f3a42" />
 </Solution>
